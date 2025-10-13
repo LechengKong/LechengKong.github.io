@@ -17,21 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a fifth-year Ph.D. candidate at Washington University in St. Louis. I focus on studying and improving Graph Neural Networks (GNNs) and Graph Foundation Models (GFM). My recent research interest is in the intersection of Graph Models and Large Language Models, from GFM to graph-based retrieval augmented generation.
+I recently joined Amazon as an Applied scientist. I got my Ph.D. from Washington University in St. Louis, advised by Dr. Yixin Chen. For details, check out my [CV](https://github.com/LechengKong/LechengKong.github.io/blob/main/docs/resume.pdf). I do RL for LLM, Graph + LLM, and application to medical/chemical domains.
 
-*Very recent interests on developing universal graph foundation model! Our work accepted as ICLR-24 Spotlight is [here](https://arxiv.org/abs/2310.00149). I am excited to talk about related ideas.*
-
-I obtained my Bachelor's degree also from Washington University in St. Louis. It is my honor to be advised by Dr. Yixin Chen towards my Ph.D. degree. For details, check out my [CV](https://github.com/LechengKong/LechengKong.github.io/blob/main/docs/resume.pdf).
-
-
-<h2>I am actively looking for Full-time research-oriented position starting Summer/Fall 2025. If you are interested in my work, I would love to chat and discuss potential opportunities. You can contact me through email.</h2>
+<!-- <h2>I am actively looking for Full-time research-oriented position starting Summer/Fall 2025. If you are interested in my work, I would love to chat and discuss potential opportunities. You can contact me through email.</h2> -->
 
 # 🔥 News
+- *2025.09*: &nbsp;🔥🔥 Check out our new paper on using round-trip consistency to improve Chemical LLM in a self-supervised fashion: [RTRL](https://arxiv.org/abs/2510.01527)!
 - *2025.01*: &nbsp;🔥🔥 [GOFA](https://openreview.net/forum?id=mIjblC9hfm) was accepted by ICLR2025!
 - *2024.08*: &nbsp;🔥🔥 [GOFA](https://arxiv.org/abs/2407.09709) released, we propose a generative approach to solve a wide variety of tasks in the graph domain. GOFA can generate free-form graph-related response to arbitrary human input.
 - *2024.08*: &nbsp;🔥🔥 [TAGLAS](https://arxiv.org/abs/2406.14683) released, TAGLAS aim to provide a graph dataset with high diversity from synthetic to real-world data. Check it out if you are building graph foundation models.
-- *2024.01*: &nbsp;🎉🎉 [COLA](https://arxiv.org/abs/2309.10376) accpeted by WWW2024! Congratulations to Hao!
-- *2024.01*: &nbsp;🎉🎉 [OneForAll](https://arxiv.org/abs/2310.00149) paper accepted as Spotlight (5%) by ICLR2024. Thanks everyone for the great teamwork!
 
 # 📝 Publications
 (\* Equal contribution)
@@ -58,7 +52,7 @@ I obtained my Bachelor's degree also from Washington University in St. Louis. It
 - Reviewer for conferences: CVPR23/24; NeurIPS23/24; ICLR24/25；KDD24/25; ECCV24;
 
 # 📖 Educations
-- *2020.09 - (now)*, Ph.D., Computer Science, Washington University in St. Louis.
+- *2020.09 - 2025.05*, Ph.D., Computer Science, Washington University in St. Louis.
 - *2016.09 - 2020.06*, Bachelor's/Master's, Computer Science, Washington University in St. Louis.
 - *2010.9 - 2016.06*, High School, Academic, Hangzhou Foreign Language School.
 

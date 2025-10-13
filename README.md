@@ -5,7 +5,7 @@ Lecheng Kong's Homepage
 
 # Bio
 
-I am a third-year Ph.D. candidate at Washington University in St. Louis. I focus on studying and improving Graph Neural Networks (GNNs). My current target is to reduce the complexity of powerful GNNs. I am also interested in general ML and its clinical application. Recently, ICD auto-coding and multi-modal study using ICD code draw my attention.
+I recently joined Amazon as an Applied Scientist. I got my Ph.D. from Washington University in St. Louis. I do RL for LLM improvement, Graph + LLM, and application to medical/chemical domains.
 
 # Acknowledges
 
