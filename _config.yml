@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Lecheng Kong (孔乐成)"
-description              : "Focusing on Graph Learning. Interested in general ML and clinical applications."
+description              : "Learn, and learn to learn."
 repository               : "woodcutter1998/woodcutter1998.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Lecheng Kong (孔乐成)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "PhD Candidate at Washington University in St. Louis"
-  location         : "St. Louis, US"
+  bio              : "Applied Scientist at AWS AI"
+  location         : "Santa Clara, CA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=yk3-_EgAAAAJ"
