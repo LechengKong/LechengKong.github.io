@@ -17,15 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I recently joined Amazon as an Applied scientist. I got my Ph.D. from Washington University in St. Louis, advised by Dr. Yixin Chen. For details, check out my [CV](https://github.com/LechengKong/LechengKong.github.io/blob/main/docs/resume.pdf). I do RL for LLM, Graph + LLM, and application to medical/chemical domains.
+I recently joined Amazon as an Applied scientist. I got my Ph.D. from Washington University in St. Louis, advised by Dr. Yixin Chen. For details, check out my [CV](https://github.com/LechengKong/LechengKong.github.io/blob/main/docs/resume.pdf). My recent focuses are on advancing harness and LLM Self-Evolution, and I am working on its productionization on AWS.
 
-<!-- <h2>I am actively looking for Full-time research-oriented position starting Summer/Fall 2025. If you are interested in my work, I would love to chat and discuss potential opportunities. You can contact me through email.</h2> -->
 
 # 🔥 News
-- *2025.09*: &nbsp;🔥🔥 Check out our new paper on using round-trip consistency to improve Chemical LLM in a self-supervised fashion: [RTRL](https://arxiv.org/abs/2510.01527)!
+- *2026.07*: &nbsp;🔥🔥 Round-trip Reinforcement Learning was accepted by COLM 2026! We designed a round-trip optimization goal for chemical model self-improvement, we are working on extending it to more general cases like coding. Checkout our paper here [RTRL](https://arxiv.org/abs/2510.01527)!
 - *2025.01*: &nbsp;🔥🔥 [GOFA](https://openreview.net/forum?id=mIjblC9hfm) was accepted by ICLR2025!
-- *2024.08*: &nbsp;🔥🔥 [GOFA](https://arxiv.org/abs/2407.09709) released, we propose a generative approach to solve a wide variety of tasks in the graph domain. GOFA can generate free-form graph-related response to arbitrary human input.
-- *2024.08*: &nbsp;🔥🔥 [TAGLAS](https://arxiv.org/abs/2406.14683) released, TAGLAS aim to provide a graph dataset with high diversity from synthetic to real-world data. Check it out if you are building graph foundation models.
 
 # 📝 Publications
 (\* Equal contribution)
@@ -49,7 +46,7 @@ I recently joined Amazon as an Applied scientist. I got my Ph.D. from Washington
 - *2007.08* Chunjianghuayue Young Residents Swimming Competition, Runner-up.
 
 # 🤝 Services
-- Reviewer for conferences: CVPR23/24; NeurIPS23/24; ICLR24/25；KDD24/25; ECCV24;
+- Reviewer for conferences: CVPR23/24; NeurIPS23/24/25/26; ICLR24/25/26；KDD24/25; ECCV24; ICML25 (Gold reviewer)
 
 # 📖 Educations
 - *2020.09 - 2025.05*, Ph.D., Computer Science, Washington University in St. Louis.
